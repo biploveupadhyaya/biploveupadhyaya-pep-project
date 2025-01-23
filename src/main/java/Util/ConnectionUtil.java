@@ -16,7 +16,6 @@ import org.h2.tools.RunScript;
  * DO NOT CHANGE ANYTHING IN THIS CLASS
  */
 public class ConnectionUtil {
-
 	/**
 	 * url will represent our connection string. Since this is an in-memory db, we
 	 * will represent a file location to store the data
